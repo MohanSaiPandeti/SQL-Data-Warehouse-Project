@@ -113,7 +113,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 
 ##  About Me
 
-Hi there! I'm **Mohan Sai Pandeti** I’m pursuing my Bachelor's of Teachnology(CSE) with ** Data Science** specialisation at Mohan Babu University
+Hi there! I'm **Mohan Sai Pandeti** I’m pursuing my Bachelor's of Technology(CSE) with ** Data Science** specialisation at Mohan Babu University
 
 Let's stay in touch! Feel free to connect with me on the following platforms:
 
